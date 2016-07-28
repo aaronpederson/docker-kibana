@@ -1,4 +1,4 @@
-# ansible-kibana
+# docker-kibana
 
 [Kibana](https://www.elastic.co/products/kibana) - Explore & Visualize Your Data
 
