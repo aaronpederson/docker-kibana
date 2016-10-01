@@ -2,7 +2,7 @@
 
 [Kibana](https://www.elastic.co/products/kibana) - Explore & Visualize Your Data
 
-[![Platforms](http://img.shields.io/badge/platforms-ubuntu-lightgrey.svg?style=flat)](#)
+![Platforms](http://img.shields.io/badge/platforms-ubuntu-lightgrey.svg?style=flat)[![](https://images.microbadger.com/badges/image/aaronpederson/kibana.svg)](https://microbadger.com/images/aaronpederson/kibana "Get your own image badge on microbadger.com")
 
 Tunables
 --------
